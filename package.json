@@ -1,0 +1,33 @@
+{
+  "name": "find_programming_languages_task",
+  "version": "1.0.0",
+  "description": "Javascript.info chapter \"Alternation_or_|\" task \"Find Programming Languages\" solution",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/find-programming-languages-task.git"
+  },
+  "keywords": [
+    "find-programming-languages",
+    "javascript",
+    "javascript.info-task-solution",
+    "task",
+    "task-solution",
+    "solution",
+    "alternation"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/find-programming-languages-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/find-programming-languages-task#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
